@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kunalchavan245@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GtkjzvZalXSdR0BwyBDeuZf2A6P3Fo3V/view?usp=sharing](https://drive.google.com/file/d/1GtkjzvZalXSdR0BwyBDeuZf2A6P3Fo3V/view?usp=sharing)
+- 📄 Know about my experiences [My Resume ](https://drive.google.com/file/d/1Z3VHserlgeIpIk6ZJJQwyM-4V-3WmpCC/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
