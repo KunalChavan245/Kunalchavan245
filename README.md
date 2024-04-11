@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Implement ML/DL to improve the security of IOT devices**
+- 🔭 I’m currently working on **Implementation of ML/DL to improve the security of IOT devices**
 
-- 🌱 I’m currently learning **Tenserflow , Transfer learning , OpenCV ,AWS ML Speciality Certification**
+- 🌱 I’m well versed with **Tenserflow , Transfer learning , OpenCV **
+
+- 🌱 I’m currently learning ** Pytorch , Pyspark, AWS ML Speciality Certification **
 
 - 📫 How to reach me **kunalchavan245@gmail.com**
 
