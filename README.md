@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kunalchavan245@gmail.com**
 
-- 📄 Know about my experiences [My Resume ](https://drive.google.com/file/d/1Z3VHserlgeIpIk6ZJJQwyM-4V-3WmpCC/view?usp=sharing)
+- 📄 Know about my experiences [My Resume ](https://drive.google.com/file/d/1sXwO7jFafjIELYdoP3clDCKL7CVoL3qn/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
