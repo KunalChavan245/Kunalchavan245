@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Implementation of ML/DL to improve the security of IOT devices**
 
-- 🌱 I’m well versed with **Tenserflow , Transfer learning , OpenCv**
+- 🌱 I’m well versed with **Tenserflow , Transfer learning , OpenCv, Pytorch**
 
-- 🌱 I’m currently learning **Pytorch , Pyspark, AWS ML Speciality Certification**
+- 🌱 I’m currently learning **Reinforcement learning, GNN , AWS ML Speciality Certification**
 
 - 📫 How to reach me **kunalchavan245@gmail.com**
 
