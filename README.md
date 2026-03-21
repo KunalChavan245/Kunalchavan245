@@ -1,36 +1,118 @@
-<h1 align="center">Hi 👋, I'm Kunal Chavan</h1>
-<h3 align="center">A passionate AI and ML Engineer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalchavan245&label=Profile%20views&color=0e75b6&style=flat" alt="kunalchavan245" /> </p>
+# Kunal Chavan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalchavan245" alt="kunalchavan245" /></a> </p>
+**Research Assistant @ MBZUAI · Incoming M.S. Student · B.Tech ECE, VIT Vellore**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+*Building vision-language models for geospatial understanding*
 
-- 🔭 I’m currently working on **Implementation of ML/DL to improve the security of IOT devices**
+[![Website](https://img.shields.io/badge/Website-kunalchavan245.github.io-2a52a0?style=flat-square&logo=google-chrome&logoColor=white)](https://kunalchavan245.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kunal--chavan--india-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-chavan-india)
+[![Gmail](https://img.shields.io/badge/Email-kunalchavan245@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kunalchavan245@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=kunalchavan245&style=flat-square&color=2a52a0)](https://github.com/KunalChavan245)
 
-- 🌱 I’m well versed with **Tenserflow , Transfer learning , OpenCv, Pytorch**
+</div>
 
-- 🌱 I’m currently learning **Reinforcement learning, GNN , AWS ML Speciality Certification**
+---
 
-- 📫 How to reach me **kunalchavan245@gmail.com**
+## About
 
-- 📄 Know about my experiences [My Resume ](https://drive.google.com/file/d/1sXwO7jFafjIELYdoP3clDCKL7CVoL3qn/view?usp=sharing)
+I am a researcher working at the intersection of **computer vision**, **vision-language models**, and **geospatial AI**. Currently a Research Assistant at the **Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)**, where I am building *Tera-SAM* — an agentic segmentation pipeline for zero-shot instance segmentation of satellite imagery using SAM3 and VLMs.
 
-- ⚡ Fun fact **I think I am funny**
+I completed my B.Tech in Electronics and Communication Engineering from **VIT Vellore** (GPA: 8.29) and am preparing to begin graduate studies. My work spans the full stack from model design to edge deployment on Raspberry Pi and NVIDIA Jetson hardware.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/kunal-chavan-008524250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-chavan-india/" height="30" width="40" /></a>
-<a href="https://instagram.com/kunalchavan7000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunalchavan7000" height="30" width="40" /></a>
-</p>
+```
+Current focus  →  VLMs for geospatial segmentation · Agentic AI · Remote sensing
+Past work      →  IoT security · Video restoration · Edge CV · Assistive tech
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalchavan245&show_icons=true&locale=en&layout=compact" alt="kunalchavan245" /></p>
+## Research Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalchavan245&show_icons=true&locale=en" alt="kunalchavan245" /></p>
+| Period | Role | Institution |
+|---|---|---|
+| Dec 2025 – Present | **Research Assistant** | Mohamed Bin Zayed University of AI (MBZUAI) |
+| May 2025 – Sep 2025 | Research Intern | Indian Institute of Technology, Guwahati |
+| Jan 2024 – Aug 2024 | Research Intern | National University of Singapore |
+| Jun 2024 – Jul 2024 | Research Intern | Indian Institute of Technology, Dharwad |
+| Mar 2024 – Jun 2024 | Computer Vision Intern | Vellore Institute of Technology |
+| Sep 2023 – Nov 2023 | Data Science Intern | Quick Heal Technologies |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalchavan245&" alt="kunalchavan245" /></p>
+---
 
+## Selected Publications
+
+📄 **AIoT Enhanced Night Vision Object Detection for Vehicle Safety** — [IEEE NETAPPS 2024](https://ieeexplore.ieee.org/abstract/document/10823504)
+
+📄 **Optimizing IoT Security: A ML Pipeline for Fast Intrusion Detection** — [IEEE NETAPPS 2024](https://ieeexplore.ieee.org/abstract/document/10823425)
+
+📄 **VocalEyes: Vision-Language Models for the Visually Impaired** — [IEEE ICEI 2024 @ IIT Dharwad](https://ieeexplore.ieee.org/abstract/document/10912415)
+
+📄 **NoiseFed: Federated Learning for Breast Cancer Detection** — Preprint 2024
+
+---
+
+## Featured Projects
+
+| Project | Description | Status |
+|---|---|---|
+| [**TerraSAM**](https://github.com/KunalChavan245) | Agentic VLM pipeline for geospatial segmentation (SAM3 + LLM) | 🟢 Ongoing |
+| [**Video Restoration**](https://github.com/KunalChavan245/Work-at-IIT-G-on-Video-Restoration-of-Weather-Degraded-Videos) | Weather-degraded video restoration — Swin + Restormer (+5% PSNR) | 🔵 Research |
+| [**DarkRoad IoT Guardian**](https://github.com/KunalChavan245/Object-detection-in-day-and-low-light-condition-using-Edge-device-for-vehicle-safety) | Night-vision object detection on Raspberry Pi 5 — IEEE Published | ✅ Complete |
+| [**NetSentry IoT**](https://github.com/KunalChavan245/Nework-Intrusion-Detection-System-repository) | ML-driven network intrusion detection — 0.952 accuracy — IEEE Published | ✅ Complete |
+| [**VocalEyes**](https://github.com/KunalChavan245) | Assistive vision system for the visually impaired using Florence-2 on Jetson | ✅ Complete |
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frameworks & Libraries**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=flat-square&logo=yolo&logoColor=white)
+
+**Hardware & Platforms**
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Certifications**
+
+![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM%20ML%20with%20Python-054ADA?style=flat-square&logo=ibm&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kunalchavan245&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalchavan245&layout=compact&hide_border=true&theme=default" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to research collaborations · Vision-Language Models · Geospatial AI · Edge Deployment*
+
+**[Website](https://kunalchavan245.github.io) · [LinkedIn](https://www.linkedin.com/in/kunal-chavan-india) · [Email](mailto:kunalchavan245@gmail.com)**
+
+</div>
