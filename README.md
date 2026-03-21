@@ -57,10 +57,10 @@ Past work      →  IoT security · Video restoration · Edge CV · Assistive te
 
 | Project | Description | Status |
 |---|---|---|
-| [**TerraSAM**](https://github.com/KunalChavan245) | Agentic VLM pipeline for geospatial segmentation (SAM3 + LLM) | 🟢 Ongoing |
+| [**TerraSAM**](https://github.com/KunalChavan245/TerraSAm) | Agentic VLM pipeline for geospatial segmentation (SAM3 + LLM) | 🟢 Ongoing |
 | [**Video Restoration**](https://github.com/KunalChavan245/Work-at-IIT-G-on-Video-Restoration-of-Weather-Degraded-Videos) | Weather-degraded video restoration — Swin + Restormer (+5% PSNR) | 🔵 Research |
-| [**DarkRoad IoT Guardian**](https://github.com/KunalChavan245/Object-detection-in-day-and-low-light-condition-using-Edge-device-for-vehicle-safety) | Night-vision object detection on Raspberry Pi 5 — IEEE Published | ✅ Complete |
-| [**NetSentry IoT**](https://github.com/KunalChavan245/Nework-Intrusion-Detection-System-repository) | ML-driven network intrusion detection — 0.952 accuracy — IEEE Published | ✅ Complete |
+| [**DarkRoad IoT Guardian**](https://github.com/KunalChavan245/DarkRoad-IoT-Guardian) | Night-vision object detection on Raspberry Pi 5 — IEEE Published | ✅ Complete |
+| [**NetSentry IoT**](https://github.com/KunalChavan245/NetSentry) | ML-driven network intrusion detection — 0.952 accuracy — IEEE Published | ✅ Complete |
 | [**VocalEyes**](https://github.com/KunalChavan245) | Assistive vision system for the visually impaired using Florence-2 on Jetson | ✅ Complete |
 
 ---
