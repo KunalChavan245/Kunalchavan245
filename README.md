@@ -2,9 +2,11 @@
 
 # Kunal Chavan
 
-**Research Assistant @ MBZUAI · Incoming M.S. Student · B.Tech ECE, VIT Vellore**
+**M.S. Computer Science @ UMass Amherst · Research Assistant @ MBZUAI · B.Tech ECE, VIT Vellore**
 
 *Building vision-language models for geospatial understanding*
+
+**Open to Summer 2027 internships in ML, computer vision and AI engineering**
 
 [![Website](https://img.shields.io/badge/Website-kunalchavan245.github.io-2a52a0?style=flat-square&logo=google-chrome&logoColor=white)](https://kunalchavan245.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kunal--chavan--india-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-chavan-india)
@@ -17,14 +19,23 @@
 
 ## About
 
-I am a researcher working at the intersection of **computer vision**, **vision-language models**, and **geospatial AI**. Currently a Research Assistant at the **Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)**, where I am building *Tera-SAM* — an agentic segmentation pipeline for zero-shot instance segmentation of satellite imagery using SAM3 and VLMs.
+I am a researcher working at the intersection of **computer vision**, **vision-language models**, and **geospatial AI**. Currently a Research Assistant at the **Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)**, where I am building *TerraSAM* — an agentic segmentation pipeline for zero-shot instance segmentation of satellite imagery using SAM3 and VLMs.
 
-I completed my B.Tech in Electronics and Communication Engineering from **VIT Vellore** (GPA: 8.29) and am preparing to begin graduate studies. My work spans the full stack from model design to edge deployment on Raspberry Pi and NVIDIA Jetson hardware.
+I am pursuing an M.S. in Computer Science at the **University of Massachusetts Amherst**, after a B.Tech in Electronics and Communication Engineering from **VIT Vellore** (GPA: 8.29). My work spans the full stack from model design to edge deployment on Raspberry Pi and NVIDIA Jetson hardware.
 
 ```
 Current focus  →  VLMs for geospatial segmentation · Agentic AI · Remote sensing
 Past work      →  IoT security · Video restoration · Edge CV · Assistive tech
 ```
+
+---
+
+## Education
+
+| Period | Degree | Institution |
+|---|---|---|
+| 2026 – 2028 (expected) | M.S. in Computer Science | University of Massachusetts Amherst |
+| 2021 – 2025 | B.Tech in Electronics and Communication Engineering (GPA: 8.29) | Vellore Institute of Technology, Vellore |
 
 ---
 
@@ -102,8 +113,9 @@ Past work      →  IoT security · Video restoration · Edge CV · Assistive te
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kunalchavan245&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalchavan245&layout=compact&hide_border=true&theme=default" />
+<!-- Generated daily by .github/workflows/grs.yml and stored in this repo, so they never depend on a public server -->
+<img height="160" src="./profile/stats.svg" alt="Kunal's GitHub stats" />
+<img height="160" src="./profile/top-langs.svg" alt="Kunal's most used languages" />
 
 </div>
 
@@ -111,7 +123,7 @@ Past work      →  IoT security · Video restoration · Edge CV · Assistive te
 
 <div align="center">
 
-*Open to research collaborations · Vision-Language Models · Geospatial AI · Edge Deployment*
+*Open to Summer 2027 internships and research collaborations · Vision-Language Models · Geospatial AI · Edge Deployment*
 
 **[Website](https://kunalchavan245.github.io) · [LinkedIn](https://www.linkedin.com/in/kunal-chavan-india) · [Email](mailto:kunalchavan245@gmail.com)**
 
