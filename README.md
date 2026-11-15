@@ -68,11 +68,11 @@ Past work      →  IoT security · Video restoration · Edge CV · Assistive te
 
 | Project | Description | Status |
 |---|---|---|
-| [**TerraSAM**](https://github.com/KunalChavan245/TerraSAm) | Agentic VLM pipeline for geospatial segmentation (SAM3 + LLM) | 🟢 Ongoing |
+| [**TerraSAM**](https://github.com/KunalChavan245/TerraSam) | Agentic VLM pipeline for geospatial segmentation (SAM3 + LLM) | 🟢 Ongoing |
 | [**Video Restoration**](https://github.com/KunalChavan245/Work-at-IIT-G-on-Video-Restoration-of-Weather-Degraded-Videos) | Weather-degraded video restoration — Swin + Restormer (+5% PSNR) | 🔵 Research |
 | [**DarkRoad IoT Guardian**](https://github.com/KunalChavan245/DarkRoad-IoT-Guardian) | Night-vision object detection on Raspberry Pi 5 — IEEE Published | ✅ Complete |
 | [**NetSentry IoT**](https://github.com/KunalChavan245/NetSentry) | ML-driven network intrusion detection — 0.952 accuracy — IEEE Published | ✅ Complete |
-| [**VocalEyes**](https://github.com/KunalChavan245) | Assistive vision system for the visually impaired using Florence-2 on Jetson | ✅ Complete |
+| [**VocalEyes**](https://ieeexplore.ieee.org/abstract/document/10912415) | Assistive vision system for the visually impaired using Florence-2 on Jetson | ✅ Complete |
 
 ---
 
@@ -113,8 +113,9 @@ Past work      →  IoT security · Video restoration · Edge CV · Assistive te
 
 <div align="center">
 
-<!-- Generated daily by .github/workflows/grs.yml and stored in this repo, so they never depend on a public server -->
-<img height="160" src="./profile/stats.svg" alt="Kunal's GitHub stats" />
+<!-- Generated daily by .github/workflows/grs.yml and stored in this repo, so they never depend on a public server. -->
+<!-- The workflow fills the STATS markers once a STATS_TOKEN secret exists; until then only the languages card shows. -->
+<!-- STATS:START --><!-- STATS:END -->
 <img height="160" src="./profile/top-langs.svg" alt="Kunal's most used languages" />
 
 </div>

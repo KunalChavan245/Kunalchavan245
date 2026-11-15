@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 3 * * *"   # every day at 03:00 UTC
   workflow_dispatch:        # lets you run it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths: [".github/workflows/grs.yml"]
 
 permissions:
   contents: write           # needed so the workflow can commit the SVG files
@@ -14,26 +17,41 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # The stats card reads account-level data, which the built-in GITHUB_TOKEN cannot access
+      # ("Resource not accessible by integration"). It needs a personal access token saved as
+      # the repository secret STATS_TOKEN. Without it, this step still runs and the next step
+      # removes the error card so the README never shows a broken card.
       - name: Generate stats card
+        continue-on-error: true
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&langs_count=6&hide=jupyter%20notebook
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Show the stats card only when it rendered
+        run: |
+          if [ -f profile/stats.svg ] && ! grep -q "Something went wrong" profile/stats.svg; then
+            STATS='<img height="160" src="./profile/stats.svg" alt="GitHub stats" />'
+          else
+            rm -f profile/stats.svg
+            STATS=''
+          fi
+          sed -i "s|<!-- STATS:START -->.*<!-- STATS:END -->|<!-- STATS:START -->${STATS}<!-- STATS:END -->|" README.md
 
       - name: Commit cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
+          git add -A profile README.md
           git commit -m "Update README cards" || exit 0
           git push
